@@ -1,2 +1,2 @@
-# VBA-Mod2
+# stocks-analysis
 Visual Basic projects
